@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.dec429eb.css",
+    "main.js": "/reactportfolio/static/js/main.cb705b28.js",
+    "static/js/787.8a3d9cd4.chunk.js": "/reactportfolio/static/js/787.8a3d9cd4.chunk.js",
+    "static/media/ns-with-bg.png": "/reactportfolio/static/media/ns-with-bg.71050b8c63ee3098f27d.png",
+    "static/media/ns.png": "/reactportfolio/static/media/ns.f3268e7c7990eee5de6a.png",
+    "static/media/portfolio5.png": "/reactportfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Nimit_Resume_Dec_2021.pdf": "/reactportfolio/static/media/Nimit_Resume_Dec_2021.153663f65b75dabdb1ba.pdf",
+    "static/media/portfolio2.jpg": "/reactportfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/reactportfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/reactportfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/reactportfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/reactportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/layered-waves-img-2.svg": "/reactportfolio/static/media/layered-waves-img-2.cd6eb966426f80d2f5d2.svg",
+    "index.html": "/reactportfolio/index.html",
+    "main.dec429eb.css.map": "/reactportfolio/static/css/main.dec429eb.css.map",
+    "main.cb705b28.js.map": "/reactportfolio/static/js/main.cb705b28.js.map",
+    "787.8a3d9cd4.chunk.js.map": "/reactportfolio/static/js/787.8a3d9cd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dec429eb.css",
+    "static/js/main.cb705b28.js"
+  ]
+}
