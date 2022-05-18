@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../../assets/Nimit_Resume_Dec_2021.pdf';
+import CV from '../../assets/Nimit_Resume_May_2022.pdf';
 
 const CTA = () => {
   return (
